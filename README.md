@@ -16,4 +16,3 @@
 
 
 
-Apaixonado por programação, estou em busca de mudar a minha vida e de outras pessoas por meio da tecnologia.
