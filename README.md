@@ -1,4 +1,4 @@
-### Olá eu sou o Gabriel Bottan 👋🏻
+### Olá seja bem-vindo ao meu perfil 👋🏻
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-bottan-9183b8265/)
 
 ![Gabriel Bottan GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielBottan&show_icons=true&theme=tokyonight)
