@@ -27,12 +27,8 @@
 
 
 <h3> 📊Métricas do Git Hub</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbottan&show_icons=true&locale=en&layout=compact" alt="gabrielbottan"/></p>
-<p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbottan&show_icons=true&locale=en" alt="gabrielbottan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielbottan&" alt="gabrielbottan" /></p>
-
 
 
 <h3 align="left">📎 Entre em contato comigo:</h3>
