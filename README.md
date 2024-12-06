@@ -7,7 +7,7 @@
 
 - 👯 Eu procuro colaborar em **Projetos de Análise de Dados.**
 
-- 👨‍💻 Todos os meus projetos disponíveis [(escreva aqui])
+- 👨‍💻 Todos os meus projetos disponíveis aqui no Git Hub 
 
 - 📝 Eu regularmente escrevo em [https://www.linkedin.com/in/gabriel-bottan-9183b8265/](https://www.linkedin.com/in/gabriel-bottan-9183b8265/)
 
